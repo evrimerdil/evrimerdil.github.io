@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://evrimerdil.github.io/sitemap.xml
